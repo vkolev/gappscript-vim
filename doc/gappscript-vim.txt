@@ -1,0 +1,27 @@
+*gappscript-vim.txt* A short multi line description of your plugin
+
+===============================================================================
+CONTENTS                                                       *gappscript-vim*
+
+    1. Intro ........................................... |gappscript-vim-intro|
+    2. Requirements ............................. |gappscript-vim-requirements|
+    3. Usage ........................................... |gappscript-vim-usage|
+    4. Licence ....................................... |gappscript-vim-licence|
+===============================================================================
+1. Intro                                                 *gappscript-vim-intro*
+
+Overview of plugin
+
+2. Requirements                                   *gappscript-vim-requirements*
+
+What additional programs are required to run the plugin
+
+3. Usage                                                 *gappscript-vim-usage*
+
+How to use the plugin. What functions does it give the user?
+
+4. Licence                                             *gappscript-vim-licence*
+
+This is open source make sure to include a licence
+
+vim:ft=help
